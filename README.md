@@ -1,2 +1,2 @@
-Testing how html,css and javascript works.
+Testing how HTML,CSS and javascript works.
 Its just a simple and basic front end, just to know how it works and how github handles it.
